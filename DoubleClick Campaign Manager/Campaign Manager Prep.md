@@ -142,4 +142,23 @@
     - High priority means serving the ad to the intended audience
   - Scroll to targeting then select Geography to reveal the relevant location targeting options
   - Choose specific area and then save the location
-- 
+  
+  ## Insights with the Floodlight
+  - Floodlight tags allow you to track events after a user views or click on your ads. 
+  - These insights show you which campaign are most effective at driving the actions you want like traffic on website or sales
+  - Use Floodlight to measure the conversions and gather information 
+  - Counter tags record the number of conversions associated with specific actions
+    - Used for reach, brand awareness and traffic campaign
+  - Sales tags measure the number of sales made or number of items purchased
+    - You can also capture the total value of each sales 
+    - Used for the conversions campaign
+  - You can also use custom variables in the floodlight to capture information beyond the basics like visit and revenue
+    - Like promo codes used, regions and product types 
+  - Floodlight tags is helpful for creating the audience lists for retargeting
+  - Under advertiser, go to the floodlight activities and name the floodlight
+    - Enter the URL of the website 
+    - Sales or counter in type
+    - Transaction or sales
+    - For Tag format, select Global site tag which is recommended for the easier integration
+    - Enable the custom floodlight variables
+

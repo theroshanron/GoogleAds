@@ -181,4 +181,20 @@
 
     ### Attribution Modules
     - It refers to set of rules that determines how to assign credit or sales and conversions to touch points 
+
+## Get started with verification
+- Prevents the fraud and fake clicks also protects the integrity of online advertising by helping marketers serve ads that are tag compliant, display correctly in brand safe locations and deliver quality as well as targeted results
+  - Based on Geo
+  - Viewability to measure the % of the impression
+  - Based on content to flag sites where ads ran next to problematic Content
+  - Based on video errors like video was mute or resized 
+  - Spam filtering and fraud detection 
+  - Select the campaign and then click on properties tab 
+    - Enable the checkbox for ad blocking under verification section
+    - From criteria section, add flagged domains or standard classifier 
+  - Some feature of verification is requires to contact support representative for the enablement
+  
+  
+
+
   

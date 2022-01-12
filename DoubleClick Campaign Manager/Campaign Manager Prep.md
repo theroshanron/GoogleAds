@@ -102,4 +102,29 @@
     - Enter the placement name
     - From the compatibility dropdown, select display since these ads will be display ads on webpage
     - From Dimensions, select the size of placement
+  
+- Upload Creatives
+    - From all campaigns tab, select the correct campaign
+    - Within the campaign, choose New 
+    - From the dropdown, scroll to Creatives and then Display
+      - For bulk upload, choose batch upload
+    - Enter the creative name 
+      - Make sure to add dimensions in the name for easy identification
+    - Type and compatibility : Display
+    - From creative assets, select Ad assets
+      - Once the creative is uploaded, CM360 automatically updates the Dimensions field
+      - Check dimensions field and then save the creative
 
+- Create ads
+  - Under the campaign, select Ad and then standard 
+    - To monitor ads serving from platform outside of CM360, select tracking ads like for email
+  - Add name for the ad 
+  - Scroll to placement assignment, select edit placement assignments and select the radio button to choose the placement we want to assign
+  - Then scroll to create assignment, edit creative assignments and select the radio button to choose the creative you want to assign 
+  - Save and finalize the Ads and verify that creative is assigned to correct standard Ad
+
+- Download and send placement tags 
+  - Verify that every component of campaign is listed as Active
+  - From top right Tags menu, select download Tags
+  - Select the placement tag we want to export and then download the file in Excel format
+  - Review the tag and email to contact

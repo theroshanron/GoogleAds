@@ -51,3 +51,25 @@
 #### Third party partners
 - Use automated third party verification with Integral Ad Science to streamline the trafficking and tag-wrapping process
 
+
+## Campaign Manager 360 Account Structure
+- Account
+- Advertiser
+- Campaign
+- Site
+- Placement
+- Ad
+- Creative
+  
+### Agency Account        
+- Advertiser 1
+- Advertiser 2 
+- Advertiser 3
+
+### Marketer Account
+- Marketer accounts may also contain multiple advertisers, but each one represents a different link of business 
+  
+## Campaign Components
+- Placement
+- Ads
+- Creatives

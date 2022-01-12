@@ -1,0 +1,19 @@
+## Google Marketing Platform
+- Set of products that work together to help plan, buy, measure, and optimize digital media experiences
+- A unified solution for cross-channel marketing
+  - Display & Videos 360 
+  - Search Ads 360 
+  - Analytics 360
+  - Campaign Manager 360 
+  - Data Studio 
+  - Tag Manager 360 
+  - Surveys
+  - Optimize 360
+- Uses:
+  - Deliver faster, smart marketing
+  - Gain control over investments
+  - Understand audiences on a deeper level
+  - Share insights across marketing teams
+  - Create better experience at Scale
+  - Leverage Machine learning and automation
+  - 

@@ -162,3 +162,23 @@
     - For Tag format, select Global site tag which is recommended for the easier integration
     - Enable the custom floodlight variables
 
+## Measure campaign performance
+- Use reach report to see how many new people are learning about the advertised products
+- Break down the average click rate across the hours 
+- With floodlight tracking, we can see the number of purchases the campaign is directly responsible for
+
+    ### Components of report and attribution
+    - Summary 
+    - Report builder
+    - Instant reporting
+    - Attribution to find out the report on interaction of all paid media efforts served or tracked
+    - Verification to get URL level reporting whether ads received views, served outside the set get target, served next to problematic content
+- CM360 offers preset report templates for all reporting needs
+  - Standard report provides the clicks, click rate, impressions and conversion data for given date range 
+  - Floodlight report provides specific data related to the conversion
+  - Reach report lets you check how many unique users the campaign engaged, through clicks or views, during a given period.
+- Reports can be scheduled to send automatically on a daily or weekly basis
+
+    ### Attribution Modules
+    - It refers to set of rules that determines how to assign credit or sales and conversions to touch points 
+  

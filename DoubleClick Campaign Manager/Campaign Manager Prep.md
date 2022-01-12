@@ -128,3 +128,18 @@
   - From top right Tags menu, select download Tags
   - Select the placement tag we want to export and then download the file in Excel format
   - Review the tag and email to contact
+
+## Set up the Audience strategy 
+- Geo restrict the campaign
+- Use Audience list to serve ads to people who ave already interacted with the website
+  - Using the floodlight, create an audience list of people who have already added the items to cart or viewed it for a longer duration
+- Show Ads during certain time hours when the user is active and services are available
+- Based on Language or Technologies like device specific
+- Adding two many targeting methods will narrow the audience in many cases
+- Specify the Audience 
+  - Select the correct campaign
+  - From the delivery properties, set desired priority
+    - High priority means serving the ad to the intended audience
+  - Scroll to targeting then select Geography to reveal the relevant location targeting options
+  - Choose specific area and then save the location
+- 

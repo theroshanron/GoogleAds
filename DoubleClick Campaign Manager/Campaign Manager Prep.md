@@ -73,3 +73,33 @@
 - Placement
 - Ads
 - Creatives
+
+## Six stages of campaign creation
+- Create Advertiser
+  - marketingplatform.google.com
+  - Select Trafficking under CM360 
+  - Create New Advertiser
+  - Select All advertisers and then new 
+  - Add Advertiser name 
+    - Create two child advertiser with the same steps as above
+    - Select floodlight, then configuration in left hand menu to choose **Share Advertiser**
+    - Search the name or ID of a parent advertiser to share.
+    - Activate the correct radio button and select 
+- Create Campaign 
+  - All campaigns > Click on New 
+  - From Identification section, enter a campaign name. 
+    - It should be specific and unique so that can be easily identified
+  - From Advertiser dropdown select the correct child advertisers
+  - Schedule the campaign by adding start or end dates 
+  - Select the landing page by adding URL, where you want to users to land when they click on Ad
+
+- Create Placement
+  - From all campaigns tab, select the correct campaign
+    - Within the campaign, choose New 
+    - From the dropdown, select placement 
+    - Select **Site Directory** to browse all the available sites
+    - Toggle the radio button and select site 
+    - Enter the placement name
+    - From the compatibility dropdown, select display since these ads will be display ads on webpage
+    - From Dimensions, select the size of placement
+

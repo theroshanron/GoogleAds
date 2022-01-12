@@ -194,7 +194,16 @@
     - From criteria section, add flagged domains or standard classifier 
   - Some feature of verification is requires to contact support representative for the enablement
   
-  
 
 
+## Plan video campaigns
+- Confirm acceptable VAST(Video ad serving template) versions are a specification to be confirm when launching
+- Required media asset files
+- Video targeting restrictions to be confirmed from the publishers 
+- Upload the highest possible specification video to CM360
+- Video Ads can be served before a YouTube video, during a live steaming video or on a prominent blog post
+- Two video types are:
+  - In stream video (YouTube Ads)
+  - In-banner video (Rich media videos served on page with JavaScript or iframe)
+- CM360 transcodes uploaded video assets, which have specific requirements for file size and resolution, to various size and resolution
   

@@ -207,3 +207,20 @@
   - In-banner video (Rich media videos served on page with JavaScript or iframe)
 - CM360 transcodes uploaded video assets, which have specific requirements for file size and resolution, to various size and resolution
   
+## Execute your video campaign
+- The Ad network only accepts 300x250 companion banners 
+- In-stream video campaign:
+  - If publishers have different video specs, create a separate placement for each publisher
+  - Set the placement compatibility to In-stream video
+  - Scroll to In-stream video settings section
+    - Turn on Include companion in tag and Control transcodes from the placement
+- Test the video with Video suite inspector
+  
+## Measure and report on video campaign
+- Number of views to count video plays
+- How long users watched the video
+- How many users muted the video
+- Companion clicks are number of clicks for companion Creatives
+- Video progress events means number of times a user either played the video for 30 seconds or entire video whichever is shorter
+- Video skips means a number of times a user skipped a video after it started playing 
+- Video first Quartile Completions is a metric to show the number of impressions where the first quarter of the video played

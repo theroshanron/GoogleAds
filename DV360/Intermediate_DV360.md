@@ -25,3 +25,31 @@
     - CPD(Cost per day) for a geography or in some cases CPM basis
 - Bidding strategy is different for all formats of YouTube Ads
 - YouTUbe campaign can be run only using Google Ads or DV360
+
+## Create TrueView Line items
+- Select the insertion order for YouTube
+- Select the YouTube and partners 
+- Name the Line Item and select the media type as Video
+- Select the type like brand awareness, shopping, website conversions or Reach
+- Select the Ad format for YouTube ads
+- Select In-stream
+  - Select the inventory sources like YouTube search, videos and include video partners(Outstream Ads)
+  - Add flight dates 
+  - Add the budget flight / daily
+  - Bid Adjustment based on platform targeting
+  - Add frequency cap
+  - Add conversions tracking using Floodlight tags
+    - Count all conversions and floodlight attribution model or primary model 
+  - We have Ad groups as well in YouTube Line items
+    - Ad groups are actual entity where we upload the video for Ads 
+    - Select Ad formats for YouTube Ads 
+    - Select Targeting to reach to the right audience(Third party audience is not available for YouTube line items)
+    - Select In-Market audience from Google Audience
+    - Add Bid strategy as per the media plan and regional cost as well in the factors 
+    - Add the video link in Ad and Add ad name 
+      - Enter the Display URL of the video
+      - Landing Page URL
+      - Click tracker URL
+      - Option to add Companion banner (Display URL, logo and auto generated image from the video or upload the banner)
+      - Option to add Call to action button
+    - Follow the same steps as above for the different types of audience in Line items 

@@ -53,3 +53,21 @@
       - Option to add Companion banner (Display URL, logo and auto generated image from the video or upload the banner)
       - Option to add Call to action button
     - Follow the same steps as above for the different types of audience in Line items 
+
+- Line item for discovery Ad format: 
+  - Select the insertion order YouTube 
+  - Name and Media type 
+  - Select the campaign type as brand awareness
+  - Select the video type as discovery ad
+  - Go to the Ad groups and add ad name as Discovery ads
+  - Select Ad format as discovery ad
+  - Discovery ad only plays when user click on the thumbnail
+  - Target the audience with custom audience and placement based audience 
+    - Add the right keywords for custom audience to reach the relevant users
+    - Add the contextual placement and search for the keywords to find a channel with more views and subscribers
+      - Select the placement targeting and Ad the video link of the channel to target
+        - We can target multiple channels videos
+  - Add Bid strategy 
+  - Add the video link in Ads and add name 
+  - Select the thumbnails for the video ad
+  - Add Headline and Description for the Ad

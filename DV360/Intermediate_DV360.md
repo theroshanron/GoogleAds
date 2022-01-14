@@ -1,0 +1,27 @@
+## DV360 - Types of YouTube Ads
+- Format of YouTube Ads:
+  - Skippable in-Stream:
+    - Video ads plays before the actual video or in mid, post position and can be skipped 
+    - Runs on YouTube watch page and Google Display Network
+    - Allows to add CTA
+    - Pay in CPM or CPV
+  - Non-Skippable in-Stream:
+    - Can't skip and good for awareness
+    - 15 seconds is limited 
+    - Pay only in CPM
+    - Video ads plays before the actual video or in mid, post position and can be skipped 
+  - Discovery Ads
+    - Only plays when user clicks on it and appears in the result of search page, watch page or homepage
+    - Pay as CPV
+  - Bumper Ads
+    - Non skippable ads but limited to 6 seconds
+    - Pay with CPM
+  - Outstream Ads
+    - Only supports Mobile with sound off and appears only on GDN
+    - Pay with vCPM (Only after Ads are viewed for 2 seconds)
+  - Masthead
+    - Appears on homepage of YouTube at the top
+    - Needs reservation by reaching out to Google team
+    - CPD(Cost per day) for a geography or in some cases CPM basis
+- Bidding strategy is different for all formats of YouTube Ads
+- YouTUbe campaign can be run only using Google Ads or DV360

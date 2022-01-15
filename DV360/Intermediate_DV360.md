@@ -96,4 +96,7 @@
   - Non-Guaranteed auction
     - 1-Few with floor price limited
       - Used to be known as Private Marketplace
+
+- Preferences:
+  - Programmatic > Non-Guaranteed Fixed Inventory > Non-Guaranteed Auction > Open Auction
   

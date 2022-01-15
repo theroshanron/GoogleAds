@@ -112,3 +112,23 @@
     - You can request for the proposal from products section 
   - It also shows the contact of the person you can connect to discuss more about the deals
 
+## How to setup and configure Deals
+- Request for the proposal from publishers
+- Negotiate / Suggest changes or approve
+- Configure the campaign 
+- Under the proposal:
+  - Add RFP Name
+  - Email address for CC
+  - We can add multiple sellers in one proposal
+  - Add budget of the campaigns
+  - Add campaign start and end dates
+  - Add CPM and impressions Required
+  - Select the inventory type for the deal
+  - Select the Ad format you want to serve with the campaign
+  - Select the device you want to serve
+  - Select the country in which you want ads to be displayed
+  - Select the creative size, you'd like to use
+  - Select the audience list if the publisher is using Ad managers
+  - Add Advertisers 
+  - Add RFP details and any particular message you'd like
+- If you are sending the proposal via email, do send the above details and your partner ID

@@ -71,3 +71,29 @@
   - Add the video link in Ads and add name 
   - Select the thumbnails for the video ad
   - Add Headline and Description for the Ad
+
+## Deals in DV360 
+- An advertising inventory agreement between a buyer (advertiser) and a seller (publisher)
+  - Deals based on CPM rates, centralized reporting, no-discrepancy
+  - Allows to publish ads with certain publishers globally with the help of DV360
+
+### Types of deals
+- Open Auctions or RTB
+- Guaranteed:
+  - Contracted Quantity
+  - Targeting can't be changed once the deal is setup 
+  - Higher CPM rates = Highest priority
+- Programmatic Guaranteed: 
+  - Direct sell and contracted impression
+  - Fixed CPM
+  - 1-1 Deal
+
+- Non-Guaranteed:
+  - Non-Guaranteed Fixed inventory
+    - No contracted impressions
+    - 1-1 Deal with Agreed upon price 
+    - Used to be known as Preferred deal
+  - Non-Guaranteed auction
+    - 1-Few with floor price limited
+      - Used to be known as Private Marketplace
+  

@@ -100,3 +100,15 @@
 - Preferences:
   - Programmatic > Non-Guaranteed Fixed Inventory > Non-Guaranteed Auction > Open Auction
   
+## Overview of the DV360 Marketplace
+- Go to the inventory section 
+  - My inventory section is already selected deals
+  - Negotiations section is to give feedback or change some parameters while dealing
+  - Click on the marketplace to see the featured and other publishers
+  - We can apply filters to find the relevant publishers for us
+    - Major publishers can be found based on demographics, gender, platform, type of ads option, video options
+  - Click on any publisher to see more details like how many impressions, cookies they serve and exchange they are using.
+    - You can also check their profile and products they are serving 
+    - You can request for the proposal from products section 
+  - It also shows the contact of the person you can connect to discuss more about the deals
+

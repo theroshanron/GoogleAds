@@ -138,4 +138,10 @@
   - We can renegotiate as well after the proposal is accepted
   - For the non-guaranteed deals, we will see the floor price and other details 
     - We get option to Accept and agree or archive the deal 
-- 
+- To configure the programmatic deal:
+  - Go to my inventory and click o actions to configure the deal
+  - Select the advertiser 
+  - Search for the campaign and select it
+    - Campaign must be created before the deal is to be configured
+  - Click on next and assign creatives based on the dimensions
+  - For Non-guaranteed deals, select the deal and configure inventory packages and select deal  in line Item

@@ -172,3 +172,14 @@
     - Success message: Tag recognized and click tracking macros enabled
     - You can google search for DV360 click macro and support article provides the click URL 
     - We can use test tag to verify where click tracking micro is working or not
+
+## Native Ads and Rich Media Ads 
+- Native ads are ads which serves on the website and looks like the content on the website
+  - Hard to differentiate between the original and Ads
+- Rich media ads are the ads where user can interact wth the Ad e.g: mute, play a game of complete the form.com
+- To create rich media in DV360:
+- Click on advertiser and then creatives to Click on format Gallery
+  - Preview and select the recommended format like Swirl, Flipbook or Panorama
+  - We can also select video specific rich media 
+  - Click on any format to see the features and supported assets required
+  - 

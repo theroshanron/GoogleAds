@@ -160,5 +160,15 @@
     - If the user clicks on the ad, it requests the landing url from CM360 and one click gets counted
       - However, since it was a direct request, DV360 will not register the click if we don't use Click Macro
 
-### CLick Macros
-- 
+### Click Macros
+- A ping URL which tells DV360 about the creative and registers the click request made on third party ad server. 
+- We can use any type of tag like iframe or JS, JS is preferred
+  - We can check the tag at jsbin.com to see if it's working
+  - Go to Advertiser in DV360, click on Creatives
+    - Click on third party display tag 
+    - Add name, dimensions, landing url and insert third party tag copied from Ad server (CM360)
+    - Do not enable scale to fit device width 
+    - It takes few minutes and then tags get verified
+    - Success message: Tag recognized and click tracking macros enabled
+    - You can google search for DV360 click macro and support article provides the click URL 
+    - We can use test tag to verify where click tracking micro is working or not

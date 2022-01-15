@@ -145,3 +145,20 @@
     - Campaign must be created before the deal is to be configured
   - Click on next and assign creatives based on the dimensions
   - For Non-guaranteed deals, select the deal and configure inventory packages and select deal  in line Item
+
+## How to upload 3rd party tags as creatives 
+- An overview:
+  - Use is on ABC.com and ABC.com requests for an ad from the Ad exchange
+    - Ad exchange requests the creative from the DV360
+      - DV360 sends the creative to Ad exchanges which is further sends to ABC.com as viewed by users
+        - It's counted as 1 impression
+  - User clicks on the Ad link and requests for the landing page from DV360 
+    - DV360 sends the landing page to ABC.com and counts it as one click
+  - In case of where creatives are stored at third party ad server like CM360, DV360 requests for the tag from CM360
+    - DV360 then sends the tag to Ad exchange which sends it to ABC.com 
+      - ABC.com renders the creative where tag requests for the creative from CM360
+    - If the user clicks on the ad, it requests the landing url from CM360 and one click gets counted
+      - However, since it was a direct request, DV360 will not register the click if we don't use Click Macro
+
+### CLick Macros
+- 

@@ -182,4 +182,18 @@
   - Preview and select the recommended format like Swirl, Flipbook or Panorama
   - We can also select video specific rich media 
   - Click on any format to see the features and supported assets required
-  - 
+  - We can also create our own format 
+  - Native formats are also very helpful like app install, display 
+    - Click on create and then upload the assets required for the format
+      - Logo (Hover to see the size supported)
+      - Image
+      - Square image (optional)
+      - Advertiser name
+      - Headline to display
+      - Long headline and body text
+      - Landing page URL 
+    - Use preview publisher sample to view how the ad will look on different publishers
+    - Make sure to add the relevant context to the native ads and not focused into sales
+    - Click on save to creative and add name 
+    - We can also add tracking url to these rich media formats 
+

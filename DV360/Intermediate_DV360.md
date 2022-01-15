@@ -131,4 +131,11 @@
   - Select the audience list if the publisher is using Ad managers
   - Add Advertisers 
   - Add RFP details and any particular message you'd like
-- If you are sending the proposal via email, do send the above details and your partner ID
+- If you are sending the proposal via email, do send the above details and your partner 
+- For negotiations, select the proposal and see the offerings list
+  - Accept, reply or cancel the deal based on offers
+  - Deal ID gets created when the proposal is accepted
+  - We can renegotiate as well after the proposal is accepted
+  - For the non-guaranteed deals, we will see the floor price and other details 
+    - We get option to Accept and agree or archive the deal 
+- 
